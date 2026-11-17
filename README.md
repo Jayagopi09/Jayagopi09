@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayagopi-techdata/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jayagopi025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=2F81F7&style=for-the-badge" />
 </p>
 
@@ -65,7 +65,7 @@ A 3-class convolutional neural network that classifies vehicle images (Suzuki, T
 - Reached **~99% accuracy** and evaluated with **confusion matrix heatmaps**
 - **Stack:** `Python` `TensorFlow` `OpenCV`
 
-🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME)
+🔗 [View Repository](https://github.com/Jayagopi09/CNN-Car-Classification-Streamlit)
 
 ### 🧠 Local RAG Pipeline
 A Retrieval-Augmented Generation pipeline built from scratch with anti-hallucination layers, designed to run on modest local hardware.
@@ -86,6 +86,7 @@ A Retrieval-Augmented Generation pipeline built from scratch with anti-hallucina
 |------|--------------|
 | Data Analytics Intern | **Labmentix Edtech Pvt Ltd** |
 | Data Analytics Intern | **NoviTech R&D Pvt Ltd** |
+
 ---
 
 ## 🌱 Currently Learning
